@@ -1,0 +1,316 @@
+2025-05-05 14:28:32,844 INFO: RF 最佳参数: {'n_estimators': 300, 'min_samples_split': 5, 'min_samples_leaf': 2, 'max_features': 'sqrt', 'max_depth': None}
+2025-05-05 14:28:33,116 INFO: RF 最终评估: 用时0.26s, R2=0.208, RMSE=20.666
+2025-05-05 14:28:38,482 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 14:28:38,506 INFO: XGB 最终评估: 用时0.02s, R2=0.203, RMSE=20.736
+2025-05-05 14:28:43,002 INFO: MLP 最佳参数: {'learning_rate_init': 0.001, 'hidden_layer_sizes': (50, 25), 'alpha': 0.001}
+2025-05-05 14:28:43,407 INFO: MLP 最终评估: 用时0.40s, R2=0.232, RMSE=20.355
+2025-05-05 14:29:10,299 INFO: RF 最佳参数: {'n_estimators': 300, 'min_samples_split': 5, 'min_samples_leaf': 2, 'max_features': 'sqrt', 'max_depth': None}
+2025-05-05 14:29:10,560 INFO: RF 最终评估: 用时0.25s, R2=0.208, RMSE=20.666
+2025-05-05 14:29:15,659 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 14:29:15,684 INFO: XGB 最终评估: 用时0.02s, R2=0.203, RMSE=20.736
+2025-05-05 14:29:20,243 INFO: MLP 最佳参数: {'learning_rate_init': 0.001, 'hidden_layer_sizes': (50, 25), 'alpha': 0.001}
+2025-05-05 14:29:20,653 INFO: MLP 最终评估: 用时0.41s, R2=0.232, RMSE=20.355
+2025-05-05 14:30:49,998 INFO: RF 最佳参数: {'n_estimators': 300, 'min_samples_split': 5, 'min_samples_leaf': 2, 'max_features': 'sqrt', 'max_depth': None}
+2025-05-05 14:30:50,263 INFO: RF 最终评估: 用时0.25s, R2=0.208, RMSE=20.666
+2025-05-05 14:30:55,724 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 14:30:55,748 INFO: XGB 最终评估: 用时0.02s, R2=0.203, RMSE=20.736
+2025-05-05 14:31:00,308 INFO: MLP 最佳参数: {'learning_rate_init': 0.001, 'hidden_layer_sizes': (50, 25), 'alpha': 0.001}
+2025-05-05 14:31:00,719 INFO: MLP 最终评估: 用时0.41s, R2=0.232, RMSE=20.355
+2025-05-05 14:32:22,249 INFO: RF 最佳参数: {'n_estimators': 100, 'min_samples_split': 5, 'min_samples_leaf': 2, 'max_features': 'log2', 'max_depth': 20}
+2025-05-05 14:32:22,338 INFO: RF 最终评估: 用时0.08s, R2=0.191, RMSE=20.885
+2025-05-05 14:32:27,488 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 14:32:27,511 INFO: XGB 最终评估: 用时0.02s, R2=0.203, RMSE=20.736
+2025-05-05 14:32:32,777 INFO: MLP 最佳参数: {'learning_rate_init': 0.01, 'hidden_layer_sizes': (50, 25), 'alpha': 0.01}
+2025-05-05 14:32:32,810 INFO: MLP 最终评估: 用时0.03s, R2=0.109, RMSE=21.927
+2025-05-05 14:32:59,279 INFO: RF 最佳参数: {'n_estimators': 100, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': 'log2', 'max_depth': 10}
+2025-05-05 14:32:59,344 INFO: RF 最终评估: 用时0.06s, R2=0.104, RMSE=21.988
+2025-05-05 14:33:01,476 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 14:33:01,489 INFO: XGB 最终评估: 用时0.01s, R2=0.079, RMSE=22.285
+2025-05-05 14:33:07,853 INFO: MLP 最佳参数: {'learning_rate_init': 0.001, 'hidden_layer_sizes': (50,), 'alpha': 0.0001}
+2025-05-05 14:33:08,146 INFO: MLP 最终评估: 用时0.29s, R2=0.073, RMSE=22.363
+2025-05-05 14:36:52,884 INFO: RF 最佳参数: {'n_estimators': 100, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': 'log2', 'max_depth': 10}
+2025-05-05 14:36:52,949 INFO: RF 最终评估: 用时0.06s, R2=0.104, RMSE=21.988
+2025-05-05 14:36:55,025 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 14:36:55,038 INFO: XGB 最终评估: 用时0.01s, R2=0.079, RMSE=22.285
+2025-05-05 14:37:01,483 INFO: MLP 最佳参数: {'learning_rate_init': 0.001, 'hidden_layer_sizes': (50,), 'alpha': 0.0001}
+2025-05-05 14:37:01,767 INFO: MLP 最终评估: 用时0.28s, R2=0.073, RMSE=22.363
+2025-05-05 14:40:07,487 INFO: RF 最佳参数: {'n_estimators': 100, 'min_samples_split': 5, 'min_samples_leaf': 2, 'max_features': 'log2', 'max_depth': 20}
+2025-05-05 14:40:07,576 INFO: RF 最终评估: 用时0.08s, R2=0.191, RMSE=20.885
+2025-05-05 14:40:12,714 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 14:40:12,737 INFO: XGB 最终评估: 用时0.02s, R2=0.203, RMSE=20.736
+2025-05-05 14:40:18,247 INFO: MLP 最佳参数: {'learning_rate_init': 0.01, 'hidden_layer_sizes': (50, 25), 'alpha': 0.01}
+2025-05-05 14:40:18,279 INFO: MLP 最终评估: 用时0.03s, R2=0.109, RMSE=21.927
+2025-05-05 14:40:34,797 INFO: RF 最佳参数: {'n_estimators': 100, 'min_samples_split': 5, 'min_samples_leaf': 2, 'max_features': 'log2', 'max_depth': 20}
+2025-05-05 14:40:34,884 INFO: RF 最终评估: 用时0.08s, R2=0.191, RMSE=20.885
+2025-05-05 14:40:40,246 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 14:40:40,270 INFO: XGB 最终评估: 用时0.02s, R2=0.203, RMSE=20.736
+2025-05-05 14:40:48,604 INFO: MLP 最佳参数: {'learning_rate_init': 0.0001, 'hidden_layer_sizes': (50, 25), 'alpha': 0.01}
+2025-05-05 14:40:49,452 INFO: MLP 最终评估: 用时0.85s, R2=-1.802, RMSE=38.873
+2025-05-05 14:41:16,145 INFO: RF 最佳参数: {'n_estimators': 100, 'min_samples_split': 5, 'min_samples_leaf': 2, 'max_features': 'log2', 'max_depth': 20}
+2025-05-05 14:41:16,237 INFO: RF 最终评估: 用时0.09s, R2=0.191, RMSE=20.885
+2025-05-05 14:41:22,058 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 14:41:22,081 INFO: XGB 最终评估: 用时0.02s, R2=0.203, RMSE=20.736
+2025-05-05 14:41:30,857 INFO: MLP 最佳参数: {'learning_rate_init': 0.01, 'hidden_layer_sizes': (50, 25), 'alpha': 0.01}
+2025-05-05 14:41:30,890 INFO: MLP 最终评估: 用时0.03s, R2=0.109, RMSE=21.927
+2025-05-05 14:48:42,126 INFO: RF 最佳参数: {'n_estimators': 2000, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_features': 0.5, 'max_depth': 5}
+2025-05-05 14:48:44,376 INFO: RF 最终评估: 用时2.18s, R2=0.240, RMSE=20.246
+2025-05-05 14:48:49,843 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 14:48:49,867 INFO: XGB 最终评估: 用时0.02s, R2=0.203, RMSE=20.736
+2025-05-05 14:48:58,803 INFO: MLP 最佳参数: {'learning_rate_init': 0.01, 'hidden_layer_sizes': (50, 25), 'alpha': 0.01}
+2025-05-05 14:48:58,835 INFO: MLP 最终评估: 用时0.03s, R2=0.109, RMSE=21.927
+2025-05-05 14:51:06,289 INFO: RF 最佳参数: {'n_estimators': 500, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': 'log2', 'max_depth': 10}
+2025-05-05 14:51:06,602 INFO: RF 最终评估: 用时0.29s, R2=0.098, RMSE=22.059
+2025-05-05 14:51:08,552 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 14:51:08,566 INFO: XGB 最终评估: 用时0.01s, R2=0.079, RMSE=22.285
+2025-05-05 14:51:22,801 INFO: MLP 最佳参数: {'learning_rate_init': 0.001, 'hidden_layer_sizes': (50,), 'alpha': 0.0001}
+2025-05-05 14:51:23,090 INFO: MLP 最终评估: 用时0.29s, R2=0.073, RMSE=22.363
+2025-05-05 14:59:16,637 INFO: RF 最佳参数: {'n_estimators': 2000, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_features': 0.5, 'max_depth': 5}
+2025-05-05 14:59:19,100 INFO: RF 最终评估: 用时2.39s, R2=0.240, RMSE=20.246
+2025-05-05 14:59:25,397 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 14:59:25,424 INFO: XGB 最终评估: 用时0.03s, R2=0.203, RMSE=20.736
+2025-05-05 14:59:35,473 INFO: MLP 最佳参数: {'learning_rate_init': 0.01, 'hidden_layer_sizes': (50, 25), 'alpha': 0.01}
+2025-05-05 14:59:35,506 INFO: MLP 最终评估: 用时0.03s, R2=0.109, RMSE=21.927
+2025-05-05 15:06:27,851 INFO: RF 最佳参数: {'n_estimators': 50, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_features': None, 'max_depth': 5}
+2025-05-05 15:06:27,948 INFO: RF 最终评估: 用时0.09s, R2=-0.476, RMSE=40.056
+2025-05-05 15:16:45,224 INFO: RF 最佳参数: {'n_estimators': 50, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_features': None, 'max_depth': 5}
+2025-05-05 15:16:45,321 INFO: RF 最终评估: 用时0.09s, R2=-0.476, RMSE=40.056
+2025-05-05 15:18:30,770 INFO: RF 最佳参数: {'n_estimators': 50, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_features': None, 'max_depth': 5}
+2025-05-05 15:18:30,865 INFO: RF 最终评估: 用时0.09s, R2=-0.476, RMSE=40.056
+2025-05-05 15:18:45,738 INFO: XGB 最佳参数: {'estimator__subsample': 0.8, 'estimator__n_estimators': 100, 'estimator__max_depth': 3, 'estimator__learning_rate': 0.01, 'estimator__colsample_bytree': 0.8}
+2025-05-05 15:18:45,878 INFO: XGB 最终评估: 用时0.14s, R2=-0.350, RMSE=39.644
+2025-05-05 15:18:59,502 INFO: MLP 最佳参数: {'learning_rate_init': 0.01, 'hidden_layer_sizes': (50,), 'alpha': 0.001}
+2025-05-05 15:18:59,598 INFO: MLP 最终评估: 用时0.09s, R2=-0.261, RMSE=39.170
+2025-05-05 15:19:39,416 INFO: RF 最佳参数: {'n_estimators': 2000, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': 'sqrt', 'max_depth': 70}
+2025-05-05 15:19:40,792 INFO: RF 最终评估: 用时1.29s, R2=-0.385, RMSE=41.413
+2025-05-05 15:19:45,244 INFO: XGB 最佳参数: {'estimator__subsample': 0.8, 'estimator__n_estimators': 100, 'estimator__max_depth': 3, 'estimator__learning_rate': 0.01, 'estimator__colsample_bytree': 1.0}
+2025-05-05 15:19:45,324 INFO: XGB 最终评估: 用时0.08s, R2=-0.219, RMSE=39.719
+2025-05-05 15:20:04,056 INFO: MLP 最佳参数: {'learning_rate_init': 0.01, 'hidden_layer_sizes': (50,), 'alpha': 0.001}
+2025-05-05 15:20:04,118 INFO: MLP 最终评估: 用时0.06s, R2=-0.241, RMSE=38.515
+2025-05-05 16:39:49,981 INFO: RF 最佳参数: {'n_estimators': 2000, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_features': 0.5, 'max_depth': 5}
+2025-05-05 16:39:51,174 INFO: RF 最终评估: 用时1.12s, R2=-0.353, RMSE=0.130
+2025-05-05 16:40:53,029 INFO: RF 最佳参数: {'n_estimators': 100, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': 'sqrt', 'max_depth': 30}
+2025-05-05 16:40:53,121 INFO: RF 最终评估: 用时0.09s, R2=-0.786, RMSE=0.150
+2025-05-05 16:41:00,287 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 16:41:00,319 INFO: XGB 最终评估: 用时0.03s, R2=-0.531, RMSE=0.138
+2025-05-05 16:41:07,061 INFO: MLP 最佳参数: {'learning_rate_init': 0.01, 'hidden_layer_sizes': (100, 50), 'alpha': 0.0001}
+2025-05-05 16:41:07,095 INFO: MLP 最终评估: 用时0.03s, R2=-0.080, RMSE=0.116
+2025-05-05 16:43:05,892 INFO: RF 最佳参数: {'n_estimators': 100, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': 'sqrt', 'max_depth': 30}
+2025-05-05 16:43:05,988 INFO: RF 最终评估: 用时0.09s, R2=-0.786, RMSE=0.150
+2025-05-05 16:43:13,226 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 16:43:13,253 INFO: XGB 最终评估: 用时0.02s, R2=-0.531, RMSE=0.138
+2025-05-05 16:43:20,933 INFO: MLP 最佳参数: {'learning_rate_init': 0.01, 'hidden_layer_sizes': (100, 50), 'alpha': 0.0001}
+2025-05-05 16:43:20,979 INFO: MLP 最终评估: 用时0.04s, R2=-0.080, RMSE=0.116
+2025-05-05 16:43:40,001 INFO: RF 最佳参数: {'n_estimators': 2000, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_features': 0.5, 'max_depth': 5}
+2025-05-05 16:43:41,222 INFO: RF 最终评估: 用时1.15s, R2=-0.353, RMSE=0.130
+2025-05-05 16:43:44,871 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 16:43:44,896 INFO: XGB 最终评估: 用时0.02s, R2=-0.101, RMSE=0.117
+2025-05-05 16:43:47,744 INFO: MLP 最佳参数: {'learning_rate_init': 0.0001, 'hidden_layer_sizes': (100, 50), 'alpha': 0.01}
+2025-05-05 16:43:47,876 INFO: MLP 最终评估: 用时0.13s, R2=-0.329, RMSE=0.129
+2025-05-05 16:46:20,778 INFO: RF 最佳参数: {'n_estimators': 100, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': 'sqrt', 'max_depth': 30}
+2025-05-05 16:46:20,876 INFO: RF 最终评估: 用时0.09s, R2=-0.787, RMSE=0.150
+2025-05-05 16:46:28,245 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 16:46:28,269 INFO: XGB 最终评估: 用时0.02s, R2=-0.531, RMSE=0.138
+2025-05-05 16:46:38,581 INFO: MLP 最佳参数: {'learning_rate_init': 0.001, 'hidden_layer_sizes': (100, 50), 'alpha': 0.01}
+2025-05-05 16:46:38,669 INFO: MLP 最终评估: 用时0.09s, R2=-1.572, RMSE=0.179
+2025-05-05 16:47:59,063 INFO: RF 最佳参数: {'n_estimators': 100, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': 'sqrt', 'max_depth': 30}
+2025-05-05 16:47:59,164 INFO: RF 最终评估: 用时0.10s, R2=-0.751, RMSE=0.148
+2025-05-05 16:48:05,221 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 16:48:05,245 INFO: XGB 最终评估: 用时0.02s, R2=-0.531, RMSE=0.138
+2025-05-05 16:48:17,103 INFO: MLP 最佳参数: {'learning_rate_init': 0.001, 'hidden_layer_sizes': (100, 50), 'alpha': 0.01}
+2025-05-05 16:48:17,190 INFO: MLP 最终评估: 用时0.09s, R2=-1.572, RMSE=0.179
+2025-05-05 16:57:30,162 INFO: RF 最佳参数: {'n_estimators': 100, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': 'sqrt', 'max_depth': 30}
+2025-05-05 16:57:30,261 INFO: RF 最终评估: 用时0.09s, R2=-0.786, RMSE=0.150
+2025-05-05 16:57:36,808 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 16:57:36,886 INFO: XGB 最终评估: 用时0.04s, R2=-0.531, RMSE=0.138
+2025-05-05 16:59:37,694 INFO: RF 最佳参数: {'n_estimators': 100, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': 'sqrt', 'max_depth': 30}
+2025-05-05 16:59:37,792 INFO: RF 最终评估: 用时0.09s, R2=-0.786, RMSE=0.150
+2025-05-05 16:59:45,199 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 16:59:45,224 INFO: XGB 最终评估: 用时0.02s, R2=-0.531, RMSE=0.138
+2025-05-05 17:00:57,057 INFO: RF 最佳参数: {'n_estimators': 100, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': 'sqrt', 'max_depth': 30}
+2025-05-05 17:00:57,153 INFO: RF 最终评估: 用时0.09s, R2=-0.774, RMSE=0.149
+2025-05-05 17:01:03,431 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 17:01:03,458 INFO: XGB 最终评估: 用时0.03s, R2=-0.531, RMSE=0.138
+2025-05-05 17:01:11,379 INFO: MLP 最佳参数: {'learning_rate_init': 0.01, 'hidden_layer_sizes': (100, 50), 'alpha': 0.0001}
+2025-05-05 17:01:11,415 INFO: MLP 最终评估: 用时0.04s, R2=-0.080, RMSE=0.116
+2025-05-05 17:05:04,840 INFO: RF 最佳参数: {'n_estimators': 2000, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': 'sqrt', 'max_depth': 70}
+2025-05-05 17:05:06,605 INFO: RF 最终评估: 用时1.69s, R2=0.077, RMSE=77.291
+2025-05-05 17:05:17,117 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 17:05:17,143 INFO: XGB 最终评估: 用时0.02s, R2=0.062, RMSE=77.888
+2025-05-05 17:05:42,815 INFO: MLP 最佳参数: {'learning_rate_init': 0.01, 'hidden_layer_sizes': (50, 25), 'alpha': 0.0001}
+2025-05-05 17:05:42,862 INFO: MLP 最终评估: 用时0.05s, R2=0.051, RMSE=78.353
+2025-05-05 17:06:07,058 INFO: RF 最佳参数: {'n_estimators': 2000, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': 'sqrt', 'max_depth': 70}
+2025-05-05 17:06:08,361 INFO: RF 最终评估: 用时1.23s, R2=-0.028, RMSE=81.551
+2025-05-05 17:06:12,954 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 17:06:12,970 INFO: XGB 最终评估: 用时0.02s, R2=0.049, RMSE=78.448
+2025-05-05 17:06:47,110 INFO: MLP 最佳参数: {'learning_rate_init': 0.01, 'hidden_layer_sizes': (100, 50), 'alpha': 0.0001}
+2025-05-05 17:06:47,186 INFO: MLP 最终评估: 用时0.08s, R2=0.118, RMSE=75.538
+2025-05-05 17:10:20,481 INFO: RF 最佳参数: {'n_estimators': 2000, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_features': 0.5, 'max_depth': 5}
+2025-05-05 17:10:21,679 INFO: RF 最终评估: 用时1.13s, R2=-0.359, RMSE=0.129
+2025-05-05 17:10:24,283 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 17:10:24,299 INFO: XGB 最终评估: 用时0.01s, R2=-0.107, RMSE=0.117
+2025-05-05 17:10:27,010 INFO: MLP 最佳参数: {'learning_rate_init': 0.01, 'hidden_layer_sizes': (100, 50), 'alpha': 0.001}
+2025-05-05 17:10:27,046 INFO: MLP 最终评估: 用时0.04s, R2=-0.275, RMSE=0.125
+2025-05-05 17:11:09,105 INFO: RF 最佳参数: {'n_estimators': 2000, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_features': 0.5, 'max_depth': 5}
+2025-05-05 17:11:10,317 INFO: RF 最终评估: 用时1.14s, R2=-0.349, RMSE=0.130
+2025-05-05 17:11:13,843 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 17:11:13,863 INFO: XGB 最终评估: 用时0.02s, R2=-0.106, RMSE=0.117
+2025-05-05 17:11:16,763 INFO: MLP 最佳参数: {'learning_rate_init': 0.0001, 'hidden_layer_sizes': (100, 50), 'alpha': 0.01}
+2025-05-05 17:11:16,898 INFO: MLP 最终评估: 用时0.14s, R2=-0.351, RMSE=0.130
+2025-05-05 17:13:37,382 INFO: RF 最佳参数: {'n_estimators': 2000, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': 'sqrt', 'max_depth': 70}
+2025-05-05 17:13:39,275 INFO: RF 最终评估: 用时1.82s, R2=0.077, RMSE=77.291
+2025-05-05 17:13:50,843 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 17:13:50,870 INFO: XGB 最终评估: 用时0.02s, R2=0.062, RMSE=77.888
+2025-05-05 17:14:13,320 INFO: MLP 最佳参数: {'learning_rate_init': 0.01, 'hidden_layer_sizes': (50, 25), 'alpha': 0.0001}
+2025-05-05 17:14:13,367 INFO: MLP 最终评估: 用时0.05s, R2=0.051, RMSE=78.353
+2025-05-05 17:14:52,543 INFO: RF 最佳参数: {'n_estimators': 2000, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': 'sqrt', 'max_depth': 70}
+2025-05-05 17:14:53,822 INFO: RF 最终评估: 用时1.20s, R2=-0.028, RMSE=81.551
+2025-05-05 17:14:56,964 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 17:14:56,979 INFO: XGB 最终评估: 用时0.01s, R2=0.049, RMSE=78.448
+2025-05-05 17:15:30,137 INFO: MLP 最佳参数: {'learning_rate_init': 0.01, 'hidden_layer_sizes': (100, 50), 'alpha': 0.0001}
+2025-05-05 17:15:30,203 INFO: MLP 最终评估: 用时0.07s, R2=0.118, RMSE=75.538
+2025-05-05 17:16:59,380 INFO: RF 最佳参数: {'n_estimators': 2000, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': 'sqrt', 'max_depth': 70}
+2025-05-05 17:17:00,660 INFO: RF 最终评估: 用时1.21s, R2=0.082, RMSE=17.688
+2025-05-05 17:17:03,672 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 17:17:03,685 INFO: XGB 最终评估: 用时0.01s, R2=0.099, RMSE=17.525
+2025-05-05 17:17:34,229 INFO: MLP 最佳参数: {'learning_rate_init': 0.01, 'hidden_layer_sizes': (50,), 'alpha': 0.001}
+2025-05-05 17:17:34,286 INFO: MLP 最终评估: 用时0.06s, R2=0.122, RMSE=17.297
+2025-05-05 17:18:06,055 INFO: RF 最佳参数: {'n_estimators': 2000, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_features': 0.5, 'max_depth': 5}
+2025-05-05 17:18:08,403 INFO: RF 最终评估: 用时2.28s, R2=0.167, RMSE=16.846
+2025-05-05 17:18:19,999 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 17:18:20,034 INFO: XGB 最终评估: 用时0.03s, R2=0.161, RMSE=16.904
+2025-05-05 17:18:46,841 INFO: MLP 最佳参数: {'learning_rate_init': 0.01, 'hidden_layer_sizes': (100, 50), 'alpha': 0.001}
+2025-05-05 17:18:46,948 INFO: MLP 最终评估: 用时0.11s, R2=0.186, RMSE=16.651
+2025-05-05 17:21:05,904 INFO: RF 最佳参数: {'n_estimators': 100, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': 'sqrt', 'max_depth': 30}
+2025-05-05 17:21:06,002 INFO: RF 最终评估: 用时0.09s, R2=-0.827, RMSE=0.151
+2025-05-05 17:21:11,893 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 17:21:11,916 INFO: XGB 最终评估: 用时0.02s, R2=-0.557, RMSE=0.139
+2025-05-05 17:21:17,727 INFO: MLP 最佳参数: {'learning_rate_init': 0.01, 'hidden_layer_sizes': (100, 50), 'alpha': 0.001}
+2025-05-05 17:21:17,763 INFO: MLP 最终评估: 用时0.04s, R2=-0.093, RMSE=0.117
+2025-05-05 17:22:48,767 INFO: RF 最佳参数: {'n_estimators': 2000, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_features': 0.5, 'max_depth': 5}
+2025-05-05 17:22:51,039 INFO: RF 最终评估: 用时2.20s, R2=0.168, RMSE=16.843
+2025-05-05 17:23:01,023 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 17:23:01,048 INFO: XGB 最终评估: 用时0.02s, R2=0.161, RMSE=16.904
+2025-05-05 17:23:26,358 INFO: MLP 最佳参数: {'learning_rate_init': 0.01, 'hidden_layer_sizes': (100, 50), 'alpha': 0.001}
+2025-05-05 17:23:26,487 INFO: MLP 最终评估: 用时0.13s, R2=0.186, RMSE=16.651
+2025-05-05 17:25:29,871 INFO: RF 最佳参数: {'n_estimators': 300, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': 'log2', 'max_depth': None}
+2025-05-05 17:25:30,144 INFO: RF 最终评估: 用时0.26s, R2=0.118, RMSE=26.243
+2025-05-05 17:25:41,153 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 17:25:41,177 INFO: XGB 最终评估: 用时0.02s, R2=0.119, RMSE=26.216
+2025-05-05 17:26:03,271 INFO: MLP 最佳参数: {'learning_rate_init': 0.01, 'hidden_layer_sizes': (100, 50), 'alpha': 0.0001}
+2025-05-05 17:26:03,378 INFO: MLP 最终评估: 用时0.11s, R2=0.136, RMSE=25.969
+2025-05-05 17:31:20,928 INFO: RF 最佳参数: {'n_estimators': 2000, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': None, 'max_depth': 30}
+2025-05-05 17:31:25,820 INFO: RF 最终评估: 用时4.82s, R2=-0.680, RMSE=0.076
+2025-05-05 17:31:33,109 INFO: XGB 最佳参数: {'subsample': 0.6, 'n_estimators': 500, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.6}
+2025-05-05 17:31:33,205 INFO: XGB 最终评估: 用时0.09s, R2=-0.727, RMSE=0.077
+2025-05-05 17:31:47,197 INFO: MLP 最佳参数: {'learning_rate_init': 0.01, 'hidden_layer_sizes': (100, 50), 'alpha': 0.001}
+2025-05-05 17:31:47,402 INFO: MLP 最终评估: 用时0.20s, R2=-1.465, RMSE=0.092
+2025-05-05 17:58:13,316 INFO: RF 最佳参数: {'n_estimators': 2000, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_features': 0.5, 'max_depth': 5}
+2025-05-05 17:58:15,692 INFO: RF 最终评估: 用时2.30s, R2=0.168, RMSE=16.843
+2025-05-05 17:58:26,283 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 17:58:26,311 INFO: XGB 最终评估: 用时0.03s, R2=0.161, RMSE=16.904
+2025-05-05 17:58:51,091 INFO: MLP 最佳参数: {'learning_rate_init': 0.01, 'hidden_layer_sizes': (100, 50), 'alpha': 0.001}
+2025-05-05 17:58:51,201 INFO: MLP 最终评估: 用时0.11s, R2=0.186, RMSE=16.651
+2025-05-05 17:59:54,116 INFO: RF 最佳参数: {'n_estimators': 2000, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': 'sqrt', 'max_depth': 70}
+2025-05-05 17:59:55,988 INFO: RF 最终评估: 用时1.80s, R2=-0.181, RMSE=9.766
+2025-05-05 18:00:06,110 INFO: XGB 最佳参数: {'subsample': 0.6, 'n_estimators': 100, 'max_depth': 6, 'learning_rate': 0.01, 'colsample_bytree': 0.6}
+2025-05-05 18:00:06,172 INFO: XGB 最终评估: 用时0.06s, R2=0.121, RMSE=8.426
+2025-05-05 18:00:28,460 INFO: MLP 最佳参数: {'learning_rate_init': 0.01, 'hidden_layer_sizes': (100, 50), 'alpha': 0.001}
+2025-05-05 18:00:28,556 INFO: MLP 最终评估: 用时0.09s, R2=-0.222, RMSE=9.935
+2025-05-05 18:01:22,331 INFO: RF 最佳参数: {'n_estimators': 2000, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': 'sqrt', 'max_depth': 70}
+2025-05-05 18:01:24,172 INFO: RF 最终评估: 用时1.76s, R2=0.077, RMSE=77.291
+2025-05-05 18:01:36,382 INFO: XGB 最佳参数: {'subsample': 0.8, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.8}
+2025-05-05 18:01:36,474 INFO: XGB 最终评估: 用时0.09s, R2=0.062, RMSE=77.888
+2025-05-05 18:02:02,283 INFO: MLP 最佳参数: {'learning_rate_init': 0.01, 'hidden_layer_sizes': (50, 25), 'alpha': 0.0001}
+2025-05-05 18:02:02,328 INFO: MLP 最终评估: 用时0.04s, R2=0.051, RMSE=78.353
+2025-05-05 18:03:11,606 INFO: RF 最佳参数: {'n_estimators': 50, 'min_samples_split': 2, 'min_samples_leaf': 8, 'max_samples': 0.5, 'max_features': 0.5, 'max_depth': 30, 'bootstrap': True}
+2025-05-05 18:03:11,650 INFO: RF 最终评估: 用时0.04s, R2=0.061, RMSE=77.959
+2025-05-05 18:03:23,101 INFO: XGB 最佳参数: {'subsample': 0.5, 'reg_lambda': 10, 'reg_alpha': 0.1, 'n_estimators': 200, 'max_depth': 3, 'learning_rate': 0.01, 'gamma': 0, 'colsample_bytree': 0.6}
+2025-05-05 18:03:23,150 INFO: XGB 最终评估: 用时0.05s, R2=0.032, RMSE=79.146
+2025-05-05 18:04:06,839 INFO: RF 最佳参数: {'n_estimators': 800, 'min_samples_split': 3, 'min_samples_leaf': 8, 'max_samples': None, 'max_features': 0.7, 'max_depth': 100, 'bootstrap': True}
+2025-05-05 18:04:07,963 INFO: RF 最终评估: 用时1.09s, R2=0.161, RMSE=16.905
+2025-05-05 18:04:19,080 INFO: XGB 最佳参数: {'subsample': 0.5, 'reg_lambda': 10, 'reg_alpha': 0.1, 'n_estimators': 200, 'max_depth': 3, 'learning_rate': 0.01, 'gamma': 0, 'colsample_bytree': 0.6}
+2025-05-05 18:04:19,123 INFO: XGB 最终评估: 用时0.04s, R2=0.120, RMSE=17.321
+2025-05-05 18:07:32,535 INFO: RF_bootstrap 最佳参数: {'n_estimators': 200, 'min_samples_split': 10, 'min_samples_leaf': 2, 'max_samples': 0.8, 'max_features': 0.5, 'max_depth': 30, 'bootstrap': True}
+2025-05-05 18:07:32,780 INFO: RF_bootstrap 最终评估: 用时0.24s, R2=0.144, RMSE=17.075
+2025-05-05 18:07:45,615 INFO: RF 最佳参数: {'n_estimators': 1000, 'min_samples_split': 3, 'min_samples_leaf': 8, 'max_features': 'sqrt', 'max_depth': 5, 'bootstrap': False}
+2025-05-05 18:07:46,279 INFO: RF 最终评估: 用时0.63s, R2=0.097, RMSE=17.540
+2025-05-05 18:07:56,194 INFO: XGB 最佳参数: {'subsample': 0.5, 'reg_lambda': 10, 'reg_alpha': 0.1, 'n_estimators': 200, 'max_depth': 3, 'learning_rate': 0.01, 'gamma': 0, 'colsample_bytree': 0.6}
+2025-05-05 18:07:56,233 INFO: XGB 最终评估: 用时0.04s, R2=0.120, RMSE=17.321
+2025-05-05 18:10:51,184 INFO: RF_bootstrap 最佳参数: {'n_estimators': 50, 'min_samples_split': 12, 'min_samples_leaf': 1, 'max_samples': 0.5, 'max_features': 0.7, 'max_depth': 15, 'bootstrap': True}
+2025-05-05 18:10:51,242 INFO: RF_bootstrap 最终评估: 用时0.06s, R2=0.156, RMSE=16.959
+2025-05-05 18:11:03,862 INFO: RF 最佳参数: {'n_estimators': 1000, 'min_samples_split': 3, 'min_samples_leaf': 8, 'max_features': 'sqrt', 'max_depth': 5, 'bootstrap': False}
+2025-05-05 18:11:04,542 INFO: RF 最终评估: 用时0.65s, R2=0.097, RMSE=17.540
+2025-05-05 18:11:11,266 INFO: XGB 最佳参数: {'subsample': 0.4, 'reg_lambda': 0, 'reg_alpha': 10, 'n_estimators': 200, 'max_depth': 12, 'learning_rate': 0.01, 'gamma': 0.1, 'colsample_bytree': 0.9}
+2025-05-05 18:11:11,474 INFO: XGB 最终评估: 用时0.21s, R2=0.140, RMSE=17.122
+2025-05-05 18:18:15,229 INFO: RF_bootstrap 最佳参数: {'n_estimators': 50, 'min_samples_split': 12, 'min_samples_leaf': 1, 'max_samples': 0.5, 'max_features': 0.7, 'max_depth': 15, 'bootstrap': True}
+2025-05-05 18:18:15,286 INFO: RF_bootstrap 最终评估: 用时0.05s, R2=0.156, RMSE=16.959
+2025-05-05 18:18:27,269 INFO: RF 最佳参数: {'n_estimators': 1000, 'min_samples_split': 3, 'min_samples_leaf': 8, 'max_features': 'sqrt', 'max_depth': 5, 'bootstrap': False}
+2025-05-05 18:18:27,949 INFO: RF 最终评估: 用时0.65s, R2=0.097, RMSE=17.540
+2025-05-05 18:18:34,106 INFO: XGB 最佳参数: {'subsample': 0.4, 'reg_lambda': 0, 'reg_alpha': 10, 'n_estimators': 200, 'max_depth': 12, 'learning_rate': 0.01, 'gamma': 0.1, 'colsample_bytree': 0.9}
+2025-05-05 18:18:34,296 INFO: XGB 最终评估: 用时0.19s, R2=0.140, RMSE=17.122
+2025-05-05 22:48:01,762 INFO: RF_bootstrap 最佳参数: {'n_estimators': 800, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_samples': 0.5, 'max_features': 0.5, 'max_depth': None, 'bootstrap': True}
+2025-05-05 22:48:11,123 INFO: RF_bootstrap 最终评估: 用时9.22s, R2=0.780, RMSE=188.067
+2025-05-05 22:50:12,912 INFO: RF 最佳参数: {'n_estimators': 500, 'min_samples_split': 5, 'min_samples_leaf': 1, 'max_features': 'log2', 'max_depth': None, 'bootstrap': False}
+2025-05-05 22:50:24,349 INFO: RF 最终评估: 用时11.35s, R2=0.776, RMSE=190.030
+2025-05-05 22:50:45,249 INFO: XGB 最佳参数: {'subsample': 0.2, 'reg_lambda': 10, 'reg_alpha': 1, 'n_estimators': 300, 'max_depth': 4, 'learning_rate': 0.05, 'gamma': 2, 'colsample_bytree': 1.0}
+2025-05-05 22:50:45,361 INFO: XGB 最终评估: 用时0.11s, R2=0.805, RMSE=177.044
+2025-05-05 22:51:36,722 INFO: RF_bootstrap 最佳参数: {'n_estimators': 800, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_samples': 0.5, 'max_features': 0.5, 'max_depth': None, 'bootstrap': True}
+2025-05-05 22:51:46,072 INFO: RF_bootstrap 最终评估: 用时9.21s, R2=0.780, RMSE=188.067
+2025-05-05 22:53:48,129 INFO: RF 最佳参数: {'n_estimators': 500, 'min_samples_split': 5, 'min_samples_leaf': 1, 'max_features': 'log2', 'max_depth': None, 'bootstrap': False}
+2025-05-05 22:53:59,554 INFO: RF 最终评估: 用时11.34s, R2=0.776, RMSE=190.030
+2025-05-05 22:54:19,549 INFO: XGB 最佳参数: {'subsample': 0.2, 'reg_lambda': 10, 'reg_alpha': 1, 'n_estimators': 300, 'max_depth': 4, 'learning_rate': 0.05, 'gamma': 2, 'colsample_bytree': 1.0}
+2025-05-05 22:54:19,658 INFO: XGB 最终评估: 用时0.11s, R2=0.805, RMSE=177.044
+2025-05-05 23:03:03,446 INFO: RF_bootstrap 最佳参数: {'n_estimators': 800, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_samples': 0.5, 'max_features': 0.5, 'max_depth': None, 'bootstrap': True}
+2025-05-05 23:03:12,916 INFO: RF_bootstrap 最终评估: 用时9.32s, R2=0.780, RMSE=188.067
+2025-05-05 23:05:14,621 INFO: RF 最佳参数: {'n_estimators': 500, 'min_samples_split': 5, 'min_samples_leaf': 1, 'max_features': 'log2', 'max_depth': None, 'bootstrap': False}
+2025-05-05 23:05:25,906 INFO: RF 最终评估: 用时11.20s, R2=0.776, RMSE=190.030
+2025-05-05 23:05:46,128 INFO: XGB 最佳参数: {'subsample': 0.2, 'reg_lambda': 10, 'reg_alpha': 1, 'n_estimators': 300, 'max_depth': 4, 'learning_rate': 0.05, 'gamma': 2, 'colsample_bytree': 1.0}
+2025-05-05 23:05:46,213 INFO: XGB 最终评估: 用时0.08s, R2=0.805, RMSE=177.044
+2025-05-05 23:06:37,077 INFO: RF_bootstrap 最佳参数: {'n_estimators': 800, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_samples': 0.5, 'max_features': 0.5, 'max_depth': None, 'bootstrap': True}
+2025-05-05 23:06:46,450 INFO: RF_bootstrap 最终评估: 用时9.23s, R2=0.780, RMSE=188.067
+2025-05-05 23:08:47,681 INFO: RF 最佳参数: {'n_estimators': 500, 'min_samples_split': 5, 'min_samples_leaf': 1, 'max_features': 'log2', 'max_depth': None, 'bootstrap': False}
+2025-05-05 23:08:58,977 INFO: RF 最终评估: 用时11.21s, R2=0.776, RMSE=190.030
+2025-05-05 23:09:18,547 INFO: XGB 最佳参数: {'subsample': 0.2, 'reg_lambda': 10, 'reg_alpha': 1, 'n_estimators': 300, 'max_depth': 4, 'learning_rate': 0.05, 'gamma': 2, 'colsample_bytree': 1.0}
+2025-05-05 23:09:18,630 INFO: XGB 最终评估: 用时0.08s, R2=0.805, RMSE=177.044
+2025-05-05 23:19:55,006 INFO: RF_bootstrap 最佳参数: {'n_estimators': 800, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_samples': 0.5, 'max_features': 0.5, 'max_depth': None, 'bootstrap': True}
+2025-05-05 23:20:04,376 INFO: RF_bootstrap 最终评估: 用时9.23s, R2=0.780, RMSE=188.067
+2025-05-05 23:22:04,715 INFO: RF 最佳参数: {'n_estimators': 500, 'min_samples_split': 5, 'min_samples_leaf': 1, 'max_features': 'log2', 'max_depth': None, 'bootstrap': False}
+2025-05-05 23:22:16,094 INFO: RF 最终评估: 用时11.29s, R2=0.776, RMSE=190.030
+2025-05-05 23:22:36,518 INFO: XGB 最佳参数: {'subsample': 0.2, 'reg_lambda': 10, 'reg_alpha': 1, 'n_estimators': 300, 'max_depth': 4, 'learning_rate': 0.05, 'gamma': 2, 'colsample_bytree': 1.0}
+2025-05-05 23:22:36,609 INFO: XGB 最终评估: 用时0.09s, R2=0.805, RMSE=177.044
+2025-05-05 23:23:27,571 INFO: RF_bootstrap 最佳参数: {'n_estimators': 800, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_samples': 0.5, 'max_features': 0.5, 'max_depth': None, 'bootstrap': True}
+2025-05-05 23:23:37,022 INFO: RF_bootstrap 最终评估: 用时9.31s, R2=0.780, RMSE=188.067
+2025-05-05 23:25:37,782 INFO: RF 最佳参数: {'n_estimators': 500, 'min_samples_split': 5, 'min_samples_leaf': 1, 'max_features': 'log2', 'max_depth': None, 'bootstrap': False}
+2025-05-05 23:25:49,178 INFO: RF 最终评估: 用时11.31s, R2=0.776, RMSE=190.030
+2025-05-05 23:26:08,715 INFO: XGB 最佳参数: {'subsample': 0.2, 'reg_lambda': 10, 'reg_alpha': 1, 'n_estimators': 300, 'max_depth': 4, 'learning_rate': 0.05, 'gamma': 2, 'colsample_bytree': 1.0}
+2025-05-05 23:26:08,804 INFO: XGB 最终评估: 用时0.09s, R2=0.805, RMSE=177.044
+2025-05-06 00:16:01,593 INFO: RF_bootstrap 最佳参数: {'n_estimators': 50, 'min_samples_split': 12, 'min_samples_leaf': 1, 'max_samples': 0.5, 'max_features': 0.7, 'max_depth': 15, 'bootstrap': True}
+2025-05-06 00:16:01,649 INFO: RF_bootstrap 最终评估: 用时0.05s, R2=0.156, RMSE=16.959
+2025-05-06 00:16:14,160 INFO: RF 最佳参数: {'n_estimators': 1000, 'min_samples_split': 3, 'min_samples_leaf': 8, 'max_features': 'sqrt', 'max_depth': 5, 'bootstrap': False}
+2025-05-06 00:16:14,914 INFO: RF 最终评估: 用时0.72s, R2=0.097, RMSE=17.540
+2025-05-06 00:16:22,282 INFO: XGB 最佳参数: {'subsample': 0.4, 'reg_lambda': 0, 'reg_alpha': 10, 'n_estimators': 200, 'max_depth': 12, 'learning_rate': 0.01, 'gamma': 0.1, 'colsample_bytree': 0.9}
+2025-05-06 00:16:22,510 INFO: XGB 最终评估: 用时0.23s, R2=0.140, RMSE=17.122
+2025-05-08 21:04:49,093 INFO: RF_bootstrap 最佳参数: {'n_estimators': 800, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_samples': 0.5, 'max_features': 0.5, 'max_depth': None, 'bootstrap': True}
+2025-05-08 21:04:58,462 INFO: RF_bootstrap 最终评估: 用时9.22s, R2=0.780, RMSE=188.067
+2025-05-08 21:06:58,348 INFO: RF 最佳参数: {'n_estimators': 500, 'min_samples_split': 5, 'min_samples_leaf': 1, 'max_features': 'log2', 'max_depth': None, 'bootstrap': False}
+2025-05-08 21:07:09,682 INFO: RF 最终评估: 用时11.24s, R2=0.776, RMSE=190.030
+2025-05-08 21:07:30,421 INFO: XGB 最佳参数: {'subsample': 0.2, 'reg_lambda': 10, 'reg_alpha': 1, 'n_estimators': 300, 'max_depth': 4, 'learning_rate': 0.05, 'gamma': 2, 'colsample_bytree': 1.0}
+2025-05-08 21:07:30,509 INFO: XGB 最终评估: 用时0.09s, R2=0.805, RMSE=177.044
+2025-05-08 21:08:21,313 INFO: RF_bootstrap 最佳参数: {'n_estimators': 800, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_samples': 0.5, 'max_features': 0.5, 'max_depth': None, 'bootstrap': True}
+2025-05-08 21:08:30,676 INFO: RF_bootstrap 最终评估: 用时9.22s, R2=0.780, RMSE=188.067
+2025-05-08 21:10:32,208 INFO: RF 最佳参数: {'n_estimators': 500, 'min_samples_split': 5, 'min_samples_leaf': 1, 'max_features': 'log2', 'max_depth': None, 'bootstrap': False}
+2025-05-08 21:10:43,544 INFO: RF 最终评估: 用时11.25s, R2=0.776, RMSE=190.030
+2025-05-08 21:11:03,585 INFO: XGB 最佳参数: {'subsample': 0.2, 'reg_lambda': 10, 'reg_alpha': 1, 'n_estimators': 300, 'max_depth': 4, 'learning_rate': 0.05, 'gamma': 2, 'colsample_bytree': 1.0}
+2025-05-08 21:11:03,680 INFO: XGB 最终评估: 用时0.09s, R2=0.805, RMSE=177.044
+2025-05-08 21:16:17,303 INFO: RF_bootstrap 最佳参数: {'n_estimators': 800, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_samples': 0.5, 'max_features': 0.5, 'max_depth': None, 'bootstrap': True}
+2025-05-08 21:16:26,798 INFO: RF_bootstrap 最终评估: 用时9.35s, R2=0.780, RMSE=188.067
+2025-05-08 21:18:32,604 INFO: RF 最佳参数: {'n_estimators': 500, 'min_samples_split': 5, 'min_samples_leaf': 1, 'max_features': 'log2', 'max_depth': None, 'bootstrap': False}
+2025-05-08 21:18:43,894 INFO: RF 最终评估: 用时11.20s, R2=0.776, RMSE=190.030
+2025-05-08 21:19:05,365 INFO: XGB 最佳参数: {'subsample': 0.2, 'reg_lambda': 10, 'reg_alpha': 1, 'n_estimators': 300, 'max_depth': 4, 'learning_rate': 0.05, 'gamma': 2, 'colsample_bytree': 1.0}
+2025-05-08 21:19:05,464 INFO: XGB 最终评估: 用时0.10s, R2=0.805, RMSE=177.044
+2025-05-08 21:19:56,642 INFO: RF_bootstrap 最佳参数: {'n_estimators': 800, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_samples': 0.5, 'max_features': 0.5, 'max_depth': None, 'bootstrap': True}
+2025-05-08 21:20:05,930 INFO: RF_bootstrap 最终评估: 用时9.15s, R2=0.780, RMSE=188.067
+2025-05-08 21:22:04,830 INFO: RF 最佳参数: {'n_estimators': 500, 'min_samples_split': 5, 'min_samples_leaf': 1, 'max_features': 'log2', 'max_depth': None, 'bootstrap': False}
+2025-05-08 21:22:16,002 INFO: RF 最终评估: 用时11.08s, R2=0.776, RMSE=190.030
+2025-05-08 21:22:35,212 INFO: XGB 最佳参数: {'subsample': 0.2, 'reg_lambda': 10, 'reg_alpha': 1, 'n_estimators': 300, 'max_depth': 4, 'learning_rate': 0.05, 'gamma': 2, 'colsample_bytree': 1.0}
+2025-05-08 21:22:35,304 INFO: XGB 最终评估: 用时0.09s, R2=0.805, RMSE=177.044
